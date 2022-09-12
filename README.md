@@ -2,15 +2,15 @@
 
 <h3 align="center">Striving to be a better ${ProblemSolver} everyday!!!</h3>
 
-- ~💲🧑‍💻 I’m currently working on my [Portfolio](https://github.com/AranMesquita/AranMesquita/blob/main/README.md)
+~💲🧑‍💻 I’m currently working on my [Portfolio](https://github.com/AranMesquita/AranMesquita/blob/main/README.md)
 
-- ~💲🌱 I’m currently learning **C# && Java**
+~💲🌱 I’m currently learning **C# && Java**
 
-- ~💲🧑‍💻 All of my projects are available at [https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita?tab=repositories)
+~💲🧑‍💻 All of my projects are available at [https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita?tab=repositories)
 
-- ~💲📫 How to reach me <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="5" width="15" /></a>
+~💲📫 How to reach me <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="15" width="25" /></a>
 
-- ~💲 Know about my experiences [https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita?tab=repositories)
+~💲 Know about my experiences [https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
