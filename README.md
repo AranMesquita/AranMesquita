@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-### Strive to be a better $ProblemSolver everyday!!!
+### Strive to be a better ${ProblemSolver} everyday!!!
 
 <!--
 **AranMesquita/AranMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
