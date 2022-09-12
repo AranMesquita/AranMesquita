@@ -31,7 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/terminal-dark.svg" />
 </p>
 
-<h3 align="left">Languages=(</h3>
+<h3 align="left">Languages = (</h3>
 <p align="left"> 
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="bash" width="40" height="40"/> </a>, 
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>, 
@@ -43,6 +43,7 @@
 
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Terminal" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/terminal-dark.svg" /> </a>
+<br><h2>)</h2></br>
 </p>
 
 
