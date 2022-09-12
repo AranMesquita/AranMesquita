@@ -4,7 +4,7 @@
 
 <h3 align="center"><img src="https://github.com/AranMesquita/AranMesquita/blob/main/ezgif.com-gif-maker.gif" width="500" height="25"/></h3>
 
-~💲🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="Portfolio" width="25" height="25"/></a>
+~💲🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/" target="blank"> <img align="center" alt="GitHub" width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="25"/></a>
 
 
 
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aran-mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aran-mesquita" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aran-mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aran-mesquita" height="30" width="40" /></a>
-<a href="https://github.com/AranMesquita/" target="blank"> <img align="center" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="30" width="40"/></a>
+<a href="https://github.com/AranMesquita/" target="blank"> <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="30" width="40"/></a>
 <br><h2>}</h2></br>
 </p>
 
