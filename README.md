@@ -4,14 +4,14 @@
 
 ~💲🧑‍💻 I’m currently working on my [Portfolio](https://github.com/AranMesquita/AranMesquita/blob/main/README.md)
 
-~💲🌱 I’m currently learning  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> **&&** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
+~💲🌱 I’m currently learning:  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> **&&** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
 
-~💲🧑‍💻 All of my projects are available at --> <a href="https://github.com/AranMesquita?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://github.com/AranMesquita/AranMesquita/blob/main/dM6iE401.svg" alt="repositories" width="25" height="25"/></a>
+~💲🧑‍💻 All of my projects are available at: <a href="https://github.com/AranMesquita?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://github.com/AranMesquita/AranMesquita/blob/main/dM6iE401.svg" alt="repositories" width="25" height="25"/></a>
 
 
 
                      
-~💲📫 How to reach me --> <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="18" width="20" /></a>
+~💲📫 Connect with me: <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="18" width="20" /></a>
 
 ~💲 Know about my experiences [https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita?tab=repositories)
 
