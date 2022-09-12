@@ -28,7 +28,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Terminal" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/powershell.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/terminal-dark.svg" />
 
 
 
