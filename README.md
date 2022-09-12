@@ -3,7 +3,7 @@
 ## ~💲echo "Hello World 👋"
 
 
-<h3 align="center"><img src="https://github.com/AranMesquita/AranMesquita/blob/main/ezgif.com-gif-maker.gif" width="1000" height="25"/></h3>
+<h3 align="center"><img src="https://github.com/AranMesquita/AranMesquita/blob/main/ezgif.com-gif-maker.gif" width="100" height="25"/></h3>
 
 ~💲🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="Portfolio" width="25" height="25"/></a>
 
