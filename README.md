@@ -4,7 +4,7 @@
 
 ~💲🧑‍💻 I’m currently working on my [Portfolio](https://github.com/AranMesquita/AranMesquita/blob/main/README.md)
 
-~💲🌱 I’m currently learning  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="15" height="15"/> </a> **&&** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/> </a>
+~💲🌱 I’m currently learning  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> **&&** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
 
 ~💲🧑‍💻 All of my projects are available at [https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita?tab=repositories)
                      
