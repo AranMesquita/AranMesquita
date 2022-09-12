@@ -1,4 +1,4 @@
-##~💲echo "Hello World 👋"
+## ~💲echo "Hello World 👋"
 
 <h3 align="center">~💲Striving to be a better ${ProblemSolver} everyday!!!</h3>
 
