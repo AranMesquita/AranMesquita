@@ -1,6 +1,6 @@
-## Hello World 👋
+##~💲echo "Hello World 👋"
 
-<h3 align="center">Striving to be a better ${ProblemSolver} everyday!!!</h3>
+<h3 align="center">~💲Striving to be a better ${ProblemSolver} everyday!!!</h3>
 
 ~💲🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="Portfolio" width="25" height="25"/></a>
 
