@@ -11,7 +11,7 @@
 
 
                      
-~💲📫 How to reach me --> <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="20" width="20" /></a>
+~💲📫 How to reach me --> <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="18" width="20" /></a>
 
 ~💲 Know about my experiences [https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita?tab=repositories)
 
