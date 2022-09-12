@@ -42,7 +42,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Terminal" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/terminal-dark.svg" /> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img alt="Terminal" width="40" height="40" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/terminal-dark.svg" /> </a>
 <br><h3>)</h3></br>
 </p>
 
