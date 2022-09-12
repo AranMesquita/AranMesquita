@@ -2,7 +2,9 @@
 
 <h3 align="center">Striving to be a better ${ProblemSolver} everyday!!!</h3>
 
-~💲🧑‍💻 I’m currently working on my [Portfolio](https://github.com/AranMesquita/AranMesquita/blob/main/README.md)
+~💲🧑‍💻 I’m currently working on my <a href="[https://github.com/AranMesquita?tab=repositories](https://github.com/AranMesquita/AranMesquita/blob/main/README.md)" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="Portfolio" width="25" height="25"/></a>
+
+
 
 ~💲🌱 I’m currently learning:  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> **&&** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
 
