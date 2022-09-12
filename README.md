@@ -4,7 +4,7 @@
 
 <h3 align="center"><img src="https://github.com/AranMesquita/AranMesquita/blob/main/ezgif.com-gif-maker.gif" width="500" height="25"/></h3>
 
-~💲🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/" target="blank"> <img align="center" alt="GitHub" width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="25"/></a>
+~💲🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="blank"> <img align="center" alt="GitHub" width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="25"/></a>
 
 
 
