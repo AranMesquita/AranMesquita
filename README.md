@@ -43,7 +43,7 @@
 
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Terminal" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/terminal-dark.svg" /> </a>
-<br><h3>)</h3></br>
+<h3>)</h3>
 </p>
 
 
