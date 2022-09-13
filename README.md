@@ -45,7 +45,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
 <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/pyscript-logo-E2BEA7A375-seeklogo.com.png" alt="git" width="70" height="40"/> </a> &nbsp;
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> &nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img alt="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> &nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> &nbsp;
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
