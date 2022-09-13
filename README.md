@@ -17,7 +17,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
 <p align="center">
 <a href="https://linkedin.com/in/aran mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aran mesquita" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aran-mesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aran-mesquita" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="(https://user-images.githubusercontent.com/49296385/55599327-09f84380-570c-11e9-8ca9-a745e495120c.png" alt="aran-mesquita" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49296385/55599327-09f84380-570c-11e9-8ca9-a745e495120c.png" alt="aran-mesquita" height="30" width="40" /></a>
 <a href="https://github.com/AranMesquita/" target="blank"> <img align="center" alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="30" width="30"/></a>
 </p>
 
