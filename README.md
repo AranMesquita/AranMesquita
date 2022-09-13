@@ -3,12 +3,12 @@
 <h3 align="center"><img src="https://github.com/AranMesquita/AranMesquita/blob/main/ezgif.com-gif-maker.gif" width="500" height="25"/></h3>
 
 <p align="center">
-- 🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="blank"> <img align="center" alt="GitHub"
+~💲 🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="blank"> <img align="center" alt="GitHub"
 width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="25"/></a> 
  <br></br>
-- 🌱 I’m currently learning:  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> && <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
+~💲 🌱 I’m currently learning:  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> && <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
 <br></br>
-- 🧑‍💻 All my projects are available at: <a href="https://github.com/AranMesquita?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://github.com/AranMesquita/AranMesquita/blob/main/dM6iE401.svg" alt="repositories" width="25" height="25"/></a>
+~💲 🧑‍💻 All my projects are available at: <a href="https://github.com/AranMesquita?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://github.com/AranMesquita/AranMesquita/blob/main/dM6iE401.svg" alt="repositories" width="25" height="25"/></a>
 </p>
 
 
