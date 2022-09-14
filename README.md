@@ -49,6 +49,10 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
 </p>
 
 
+<h2 align="center">Projects:<h2>
+<img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="275"/> 
+
+
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
