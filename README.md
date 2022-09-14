@@ -49,7 +49,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
 </p>
 
 
-<h2 align="center">See my work:<h2>
+<h2 align="center">Projects:<h2>
  <p align="left">
  
   [To-Do list app📝:](https://github.com/AranMesquita/To-Do-List)
