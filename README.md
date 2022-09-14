@@ -53,6 +53,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
  <p align="left">
  
   [To-Do list app:](https://github.com/AranMesquita/To-Do-List)
+  <br></br>
   <a href="https://github.com/AranMesquita/To-Do-List" target="_blank" rel="noreferrer">
    <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="275"/>
   </a>
