@@ -57,7 +57,6 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
   <a href="https://github.com/AranMesquita/Music-Player-and-Downloader-App" target="_blank" rel="noreferrer">
    <img src="https://github.com/AranMesquita/Music-Player-and-Downloader-App/blob/main/Music/assets/Music_app_demo.gif" height="600" width="275"/>
   </a>
-  <br></br>
    [To-Do list app📝:](https://github.com/AranMesquita/To-Do-List)
   <br></br>
   <a href="https://github.com/AranMesquita/To-Do-List" target="_blank" rel="noreferrer">
