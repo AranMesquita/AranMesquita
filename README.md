@@ -6,7 +6,7 @@
 ~💲 🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="blank"> <img align="center" alt="GitHub"
 width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="25"/></a> 
  <br></br>
-~💲 🌱 I’m currently learning:  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> && <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
+~💲 🌱 I’m currently learning: <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
 <br></br>
 &nbsp; ~💲&nbsp;🧑‍💻 All my projects are available at: <a href="https://github.com/AranMesquita?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://visualpharm.com/assets/860/Repository-595b40b75ba036ed117d8982.svg" alt="repositories" width="24" height="25"/></a>
 </p>
@@ -29,7 +29,6 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
 <a href="https://github.com/AranMesquita/ProblemSolving/tree/main/PowerShell" target="_blank" rel="noreferrer"> <img alt="PowerShell" width="40" height="40" src="https://github.com/AranMesquita/AranMesquita/blob/main/assets/PowerShell.png" /> </a> &nbsp;
 <a href="https://github.com/AranMesquita/ProblemSolving/tree/main/Bash" target="_blank" rel="noreferrer"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="bash" width="40" height="40"/> </a> &nbsp;
-<a href="https://github.com/AranMesquita/ProblemSolving/tree/main/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;
 <a href="https://github.com/AranMesquita/ProblemSolving/tree/main/Java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
 </p>
 
