@@ -3,6 +3,10 @@
 <h3 align="center"><img src="https://github.com/AranMesquita/AranMesquita/blob/main/assets/ezgif.com-gif-maker.gif" width="500" height="25"/></h3>
 
 <p align="center">
+
+I'm a Full-stack developer🧑‍💻 and hobbyist engineer, I absolutely enjoy problem solving especially that moment when that light bulb switches on💡and you find that perfect solution. All my projects are built to either solve real-life problems of mine or to learn new skills and tech stacks. I'm an avid learner and very interested in latest and newest Technologies.
+
+
 ~💲 🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="blank"> <img align="center" alt="GitHub"
 width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="25"/></a> 
  <br></br>
