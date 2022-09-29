@@ -50,7 +50,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
 
 <h2 align="center">Projects:<h2>
  
- <p align="center">
+
   
   [Music Downloader App:](https://github.com/AranMesquita/Music-Player-and-Downloader-App) &nbsp; &emsp;
   [Pyscript Shopping List PWA:](https://github.com/AranMesquita/Shopping-List-PWA)&nbsp; &emsp;
@@ -65,7 +65,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
   <a align="center" href="https://github.com/AranMesquita/Shopping-List-PWA" target="_blank" rel="noreferrer">
    <img src="https://github.com/AranMesquita/Shopping-List-PWA/blob/main/static/assets/images/Shopping-list-demo.gif" height="600" width="800"/>
   </a>
- </p>
+ 
  
 
 
