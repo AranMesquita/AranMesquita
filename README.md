@@ -53,13 +53,17 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
  <p align="center">
   
   [Music Downloader App:](https://github.com/AranMesquita/Music-Player-and-Downloader-App) &nbsp; &emsp;
-  [To-Do list App:](https://github.com/AranMesquita/To-Do-List)
+  [To-Do list App:](https://github.com/AranMesquita/To-Do-List)&nbsp; &emsp;
+  [Pyscript Shopping List PWA:](https://github.com/AranMesquita/Shopping-List-PWA)
   <br></br>
   <a href="https://github.com/AranMesquita/Music-Player-and-Downloader-App" target="_blank" rel="noreferrer">
    <img src="https://github.com/AranMesquita/Music-Player-and-Downloader-App/blob/main/Music/assets/Music_app_demo.gif" height="600" width="275"/>
   </a>  &emsp;
   <a href="https://github.com/AranMesquita/To-Do-List" target="_blank" rel="noreferrer">
    <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="275"/>
+  </a>&emsp;
+  <a href="https://github.com/AranMesquita/Shopping-List-PWA" target="_blank" rel="noreferrer">
+   <img src="https://github.com/AranMesquita/Shopping-List-PWA/blob/main/static/assets/images/Shopping-list-demo.gif" height="600" width="275"/>
   </a>
  </p>
  
