@@ -52,7 +52,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
  
 
   
-  &emsp; &emsp; &emsp; <br/>[Music Downloader App:](https://github.com/AranMesquita/Music-Player-and-Downloader-App) &nbsp; &emsp;
+  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[Music Downloader App:](https://github.com/AranMesquita/Music-Player-and-Downloader-App) &nbsp; &emsp;
   [To-Do list App:](https://github.com/AranMesquita/To-Do-List)
   <br></br>
  <p align="center">
