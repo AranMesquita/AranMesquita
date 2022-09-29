@@ -4,15 +4,9 @@
 
 <p align="center">
 
+
 I'm a Full-stack developer🧑‍💻 and hobbyist engineer, I absolutely enjoy problem solving especially that moment when that light bulb switches on💡and you find that perfect solution. All my projects are built to either solve real-life problems of mine or to learn new skills and tech stacks. I'm an avid learner and very interested in latest and newest Technologies.
 
-
-~💲 🧑‍💻 I’m currently working on my <a href="https://github.com/AranMesquita/AranMesquita/blob/main/README.md" target="blank"> <img align="center" alt="GitHub"
-width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  height="25"/></a> 
- <br></br>
-~💲 🌱 I’m currently learning: <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
-<br></br>
-&nbsp; ~💲&nbsp;🧑‍💻 All my projects are available at: <a href="https://github.com/AranMesquita?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://visualpharm.com/assets/860/Repository-595b40b75ba036ed117d8982.svg" alt="repositories" width="24" height="25"/></a>
 </p>
 
 
