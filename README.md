@@ -65,7 +65,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
  </p>
  <br/>
  
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [Pyscript Shopping List PWA:](https://github.com/AranMesquita/Shopping-List-PWA)
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [Pyscript Shopping List PWA:](https://github.com/AranMesquita/Shopping-List-PWA)
  <p align="center">
   <a href="https://github.com/AranMesquita/Shopping-List-PWA" target="_blank" rel="noreferrer">
    <img align="center" src="https://github.com/AranMesquita/Shopping-List-PWA/blob/main/static/assets/images/Shopping-list-demo.gif" height="600" width="1000"/>
