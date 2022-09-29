@@ -60,7 +60,7 @@ width="25" src="https://user-images.githubusercontent.com/3369400/139447912-e0f4
   </a>  &emsp;
   <a href="https://github.com/AranMesquita/To-Do-List" target="_blank" rel="noreferrer">
    <img align="center" src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="275"/>
-  </a> &emsp;
+  </a> &nbsp;
  
  
  [Pyscript Shopping List PWA:](https://github.com/AranMesquita/Shopping-List-PWA)&nbsp; &emsp;
