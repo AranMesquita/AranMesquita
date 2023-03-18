@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://github.com/AranMesquita/AranMesquita/blob/main/assets/ezgif.com-gif-maker.gif" width="500" height="25"/></h3>
 
 <p align="center">
-I'm a Full-stack developer🧑‍💻 and hobbyist engineer, I absolutely enjoy problem solving especially that moment when that light bulb switches on💡and you find that perfect solution. All my projects are built to either solve real-life problems of mine or to learn new skills and tech stacks. I'm an avid learner and very interested in latest and newest Technologies.
+I'm a Full-stack developer🧑‍💻 and hobbyist engineer, I am very passionate about problem solving. All my projects are built to either solve real-life problems of mine or to learn new skills and tech stacks. I'm an avid learner and very interested in latest and newest Technologies.
 </p>
 
 
