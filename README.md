@@ -17,7 +17,7 @@ As a full-stack developer🧑‍💻 and hobbyist engineer, I am passionate abou
 
 <h2 align="center">Languages:</h2>
 <p align="center"> 
- <a href="https://github.com/AranMesquita/ProblemSolving/tree/main/Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+ <a href="https://github.com/AranMesquita/Shopping-List-PWA" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
  <a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
 <a href="https://github.com/AranMesquita/Music-Player-and-Downloader-App" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
