@@ -68,11 +68,3 @@ I am a full-stack developer🧑‍💻 and hobbyist engineer, I am passionate ab
    <img align="center" src="https://github.com/AranMesquita/Shopping-List-PWA/blob/main/static/assets/images/Shopping-list-demo.gif" height="600" width="1000"/>
   </a>
   </p>
- 
- 
-
-
-
-```
-![Snake animation](https://github.com/AranMesquita/AranMesquita/blob/main/assets/PowerShell.png)
-```
