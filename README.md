@@ -47,24 +47,6 @@ I am a full-stack developer🧑‍💻 and hobbyist engineer, I am passionate ab
 
 <h2 align="center">Projects:<h2>
  
-
-  
-  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [Music Downloader App:](https://github.com/AranMesquita/Music-Player-and-Downloader-App) &nbsp; &emsp; &nbsp;
-  [To-Do list App:](https://github.com/AranMesquita/To-Do-List)
-  <br></br>
- <p align="center">
-  <a href="https://github.com/AranMesquita/Music-Player-and-Downloader-App" target="_blank" rel="noreferrer">
-   <img src="https://github.com/AranMesquita/Music-Player-and-Downloader-App/blob/main/Music/assets/Music_app_demo.gif" height="600" width="275"/>
-  </a> &emsp; &ensp;
-  <a href="https://github.com/AranMesquita/To-Do-List" target="_blank" rel="noreferrer">
-   <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="275"/>
-  </a>
- </p>
- <br/>
- 
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [Pyscript Shopping List PWA:](https://github.com/AranMesquita/Shopping-List-PWA)
- <p align="center">
-  <a href="https://github.com/AranMesquita/Shopping-List-PWA" target="_blank" rel="noreferrer">
-   <img align="center" src="https://github.com/AranMesquita/Shopping-List-PWA/blob/main/static/assets/images/Shopping-list-demo.gif" height="600" width="1000"/>
-  </a>
-  </p>
+```bash
+github@AranMesquita:~$ ls "Pinned-Repos"
+```
