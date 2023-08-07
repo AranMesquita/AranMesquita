@@ -19,13 +19,14 @@ I am a full-stack developer🧑‍💻 and hobbyist engineer, I am passionate ab
 <p align="center"> 
  <a href="https://github.com/AranMesquita/Shopping-List-PWA" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
  <a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
+<a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="bash" width="40" height="40"/> </a> &nbsp;
+<a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img alt="PowerShell" width="40" height="40" src="https://github.com/AranMesquita/AranMesquita/blob/main/assets/PowerShell.png" /> </a> &nbsp;
+ <a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="C#" width="40" height="40"/> </a> &nbsp;
+<a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
 <a href="https://github.com/AranMesquita/Music-Player-and-Downloader-App" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-<a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img alt="PowerShell" width="40" height="40" src="https://github.com/AranMesquita/AranMesquita/blob/main/assets/PowerShell.png" /> </a> &nbsp;
-<a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="bash" width="40" height="40"/> </a> &nbsp;
-<a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
- <a href="https://leetcode.com/Aran-Mesquita" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="C#" width="40" height="40"/> </a> &nbsp;
+
 </p>
 
 <h2 align="center">Tools and Technologies:</h2>
