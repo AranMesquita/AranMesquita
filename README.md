@@ -74,5 +74,5 @@ I am a full-stack developer🧑‍💻 and hobbyist engineer, I am passionate ab
 
 
 ```
-![Snake animation](./assets/PowerShell.png)
+![Snake animation](https://github.com/AranMesquita/AranMesquita/blob/main/assets/PowerShell.png)
 ```
