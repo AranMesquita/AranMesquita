@@ -47,6 +47,6 @@ I am a full-stack developer🧑‍💻 and hobbyist engineer, I am passionate ab
 
 <h2 align="center">Projects:<h2>
  
-```java
-github@AranMesquita:~$ ls "Pinned-Repos"
+```
+github@AranMesquita:~$ ls "Pinned"
 ```
